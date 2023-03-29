@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **Frontend Developer Job**
 
-- 👨‍💻 See my portfolio [suzzit.github.io/suzzitfolio](suzzit.github.io/suzzitfolio)
+- 👨‍💻 See my portfolio [suzzit.github.io/suzzitfolio](https://www.suzzit.github.io/suzzitfolio)
 
 - 💬 Ask me about **react, redux, JS, HTML&CSS**
 
