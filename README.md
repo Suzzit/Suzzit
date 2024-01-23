@@ -7,7 +7,7 @@
 
 - 👨‍💻 See my portfolio [suzzit.github.io/suzzitfolio](https://www.suzzit.github.io/suzzitfolio)
 
-- 💬 Ask me about **react, redux, JS, HTML&CSS**
+- 💬 Ask me about **JS**
 
 - 📫 Hit me @ **bajagainsuzzit@gmail.com**
 
