@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suzzit</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
+<img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8fHww" />
+
 - 🔭 I’m currently working on [Project Management Web App](https://github.com/sarbajeetmadnal4/ICT-International-Project-Managment-Web-app)
 
 - 🌱 I’m currently learning **NextJS and Backend techs**
